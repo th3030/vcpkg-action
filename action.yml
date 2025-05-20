@@ -1,4 +1,4 @@
-name: vcpkg-action
+name: vcpkg-action-update
 description: Simple action to run vcpkg and cache results
 inputs:
   pkgs:
